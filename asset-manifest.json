@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CricScore/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/CricScore/static/js/main.d8416ae3.chunk.js",
+    "main.js.map": "/CricScore/static/js/main.d8416ae3.chunk.js.map",
+    "runtime-main.js": "/CricScore/static/js/runtime-main.8c58476e.js",
+    "runtime-main.js.map": "/CricScore/static/js/runtime-main.8c58476e.js.map",
+    "static/js/2.a42c776b.chunk.js": "/CricScore/static/js/2.a42c776b.chunk.js",
+    "static/js/2.a42c776b.chunk.js.map": "/CricScore/static/js/2.a42c776b.chunk.js.map",
+    "static/js/3.9c7cca75.chunk.js": "/CricScore/static/js/3.9c7cca75.chunk.js",
+    "static/js/3.9c7cca75.chunk.js.map": "/CricScore/static/js/3.9c7cca75.chunk.js.map",
+    "index.html": "/CricScore/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/CricScore/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a42c776b.chunk.js.LICENSE.txt": "/CricScore/static/js/2.a42c776b.chunk.js.LICENSE.txt",
+    "static/media/1.2b2935b8.jpg": "/CricScore/static/media/1.2b2935b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c58476e.js",
+    "static/js/2.a42c776b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d8416ae3.chunk.js"
+  ]
+}
